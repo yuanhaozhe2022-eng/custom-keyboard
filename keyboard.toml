@@ -51,3 +51,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _
 """
 encoders = [["_", "_"]]
+
+[[input_device.encoder]]
+pin_a = "PIN_20"
+pin_b = "PIN_21"
