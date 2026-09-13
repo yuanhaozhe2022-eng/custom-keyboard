@@ -2,12 +2,12 @@ A month away from the deadline, also my first time making one of these PCBs.
 I’m thinking about a split-in-the-middle 65% keyboard with integrated plate design
 
 Written Clear goal:
-Make it work, of course
-Standard 65% Keyboard
-A split in the middle so it can fold for portability
-Future wireless upgrade
-Function keys by pressing down on a designated fn key
-Leaving space for additional features in the future
+- Make it work, of course
+- Standard 65% Keyboard
+- A split in the middle so it can fold for portability
+- Future wireless upgrade
+- Function keys by pressing down on a designated fn key
+- Leaving space for additional features in the future
 
 Rough idea sketch, took me like an hour, this is not going to go well =(
 
