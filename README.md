@@ -1,6 +1,6 @@
 # custom-keyboard
 
-Hi, my name is Eric and this is my attempt on the Hack Club KEEB project.
+Hi, my name is Eric and this is my submission on the Hack Club KEEB project.
 
 Short description:
 It's a split, 65%-style mechanical keyboard with an integrated plate, split spacebar, rotary encoder, and a small OLED display. Firmware runs on RMK.
