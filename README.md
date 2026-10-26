@@ -6,7 +6,7 @@ During this project, I ONLY used AI to move files around inside the repo in orde
 Hi, my name is Eric and this is my submission on the Hack Club KEEB project.
 
 Short description:
-It's a split, 65%-style mechanical keyboard with an integrated plate, split spacebar, rotary encoder, and a small OLED display. Firmware runs on RMK.
+It's a split, 65%-style mechanical keyboard with an integrated plate, split spacebar, rotary encoder, custom PCB and a small OLED display. Firmware runs on RMK.
 
 Specs:
 - MCU: Raspberry Pi Pico (RP2040)
