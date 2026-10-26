@@ -1,6 +1,7 @@
 # custom-keyboard
 
-PLS DONT COOK ME I ONLY USED CLAUDE TO MOVE THE bom.csv OUTTA THE FOLDER
+AI Disclosure:
+During this project, I ONLY used AI to move files around inside the repo in order to fit the shipping requirement such as moving the bom.csv out of the folder into the root.
 
 Hi, my name is Eric and this is my submission on the Hack Club KEEB project.
 
