@@ -15,7 +15,9 @@ Written Clear goal:
 Rough idea sketch, took me like an hour, this is not going to go well =(
 
 <img width="490" height="655" alt="image" src="https://github.com/user-attachments/assets/94e34b6f-839e-4561-9187-d76a057caca7" />
+
 **TIME SPENT: 5h**
+
 Finished the Schematics in roughly 5 hours, really took longer than I expected, I had to go into the library and add 3D models manually which is a pain. Also have to check for connection errors individually. Added some extra features including an encoder and an OLED screen because why not? They are quite useful sometimes.
 
 <img width="857" height="604" alt="Screenshot 2026-09-06 200716" src="https://github.com/user-attachments/assets/1d2c1dea-e99b-44c2-83fb-c68182404238" />
