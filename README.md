@@ -1,5 +1,7 @@
 # custom-keyboard
 
+PLS DONT COOK ME I ONLY USED CLAUDE TO MOVE THE bom.csv OUTTA THE FOLDER
+
 Hi, my name is Eric and this is my submission on the Hack Club KEEB project.
 
 Short description:
