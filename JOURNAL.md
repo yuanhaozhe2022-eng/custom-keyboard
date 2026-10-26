@@ -1,3 +1,5 @@
+This is a 65% keyboard. Yes.
+
 **TIME SPENT: 1h**
 A month away from the deadline, also my first time making one of these PCBs.
 I’m thinking about a split-in-the-middle 65% keyboard with integrated plate design
